@@ -10,6 +10,20 @@ const femDict = {
       }
     ]
   },
+  cielkun: {
+    casedName: "CielKun",
+    pfp: "assets/img/default.png",
+    colors: "blue, lightblue, lightpink, pink",
+    socials: [
+      {
+        class: "fbk",
+        link: "https://www.facebook.com/felix.argyle.790"
+      },{
+        class: "twt",
+        link: "https://twitter.com/cielkun_UwU/"
+      }
+    ]
+  },
   diamy: {
     casedName: "Diamy",
     pfp: "assets/img/diamy.jpg",
