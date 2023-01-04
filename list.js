@@ -165,6 +165,23 @@ const femDict = {
       }
     ]
   },
+  niiya: {
+    casedName: "Niiya",
+    pfp: "assets/img/default.png",
+    colors: "limegreen, white, pink",
+    socials: [
+      {
+        class: "fbk",
+        link: "https://www.facebook.com/profile.php?id=100056818089455"
+      },{
+        class: "twc",
+        link: "https://www.twitch.tv/niiya_chii"
+      },{
+        class: "twt",
+        link: "https://twitter.com/niyamachii"
+      }
+    ]
+  },
   onishifumiko: {
     casedName: "OnishiFumiko",
     pfp: "assets/img/fumi.jpg",
