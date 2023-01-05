@@ -12,7 +12,7 @@ const femDict = {
   },
   cielkun: {
     casedName: "CielKun",
-    pfp: "assets/img/default.png",
+    pfp: "https://media.discordapp.net/attachments/637929509827641345/1060420989890084874/fa240c1f95db8e56b11fa23dc01e2456.png",
     colors: "blue, lightblue, lightpink, pink",
     socials: [
       {
@@ -167,7 +167,7 @@ const femDict = {
   },
   niiya: {
     casedName: "Niiya",
-    pfp: "assets/img/default.png",
+    pfp: "https://media.discordapp.net/attachments/637929509827641345/1060421219507249202/5b975b8e067c2aea5752a453c0b4fe73.png",
     colors: "limegreen, white, pink",
     socials: [
       {
