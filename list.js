@@ -213,6 +213,20 @@ const femDict = {
       }
     ]
   },
+  rinnysori:{
+    casedName: "rinnysori",
+    pfp: "https://media.discordapp.net/attachments/1080178827956863077/1080184037425020928/XrvuqgK8_400x400.png",
+    colors: "#120C8E, #A716FA, #FE9EFF, #FFFFFF",
+    socials: [
+      {
+        class: "twt",
+        link: "https://twitter.com/rinnysori"
+      },{
+        class: "kfi",
+        link: "https://ko-fi.com/rinnysori"
+      }
+    ]
+  },
   vinnie: {
     casedName: "Vinnie",
     pfp: "assets/img/vinnie.png",
