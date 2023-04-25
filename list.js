@@ -227,6 +227,20 @@ const femDict = {
       }
     ]
   },
+  tinybatsu: {
+    casedName: "TinyBatsu",
+    pfp: "https://media.discordapp.net/attachments/1100041844211077130/1100060332354961418/IMG_20230424_220515_469.jpg",
+    colors: "#f8c8dc, #77dd77",
+    socials: [
+      {
+        class: "ins",
+        link: "https://instagram.com/tinybatsu",
+      },{
+        class: "twt",
+        link: "https://twitter.com/TinyBatsu"
+      }
+    ]
+  },
   vinnie: {
     casedName: "Vinnie",
     pfp: "assets/img/vinnie.png",
