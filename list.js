@@ -159,7 +159,7 @@ const femDict = {
   },
   lumienze: {
     casedName: "Lumienze",
-    pfp: "https://cdn.discordapp.com/avatars/357402169848365056/745aa1b47668a6077ee0db84ba30515d.png",
+    pfp: "https://media.discordapp.net/attachments/1074284044939960400/1126540611567231106/angrylapinepfp.png",
     colors: "white, red, black, white",
     socials: [
       {
