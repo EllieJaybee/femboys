@@ -24,6 +24,23 @@ const femDict = {
       }
     ]
   },
+  crystalmon: {
+    casedName: "Crystalmon",
+    pfp: "https://media.discordapp.net/attachments/1126003354246594621/1126006001078894683/6dbd6131bd995b6f968e4d0b1a3d2694_4384456499299544000.png?width=469&height=468",
+    colors: "#14D0EE, #9F14EE, #EE14D0",
+    socials: [
+      {
+        class: "ins",
+        link: "https://www.instagram.com/crystalmon__/"
+      },{
+        class: "kfi",
+        link: "https://www.buymeacoffee.com/Crystalmon_"
+      },{
+        class: "tkt",
+        link: "https://www.tiktok.com/@crystalmon__"
+      }
+    ]
+  },
   diamy: {
     casedName: "Diamy",
     pfp: "assets/img/diamy.jpg",
