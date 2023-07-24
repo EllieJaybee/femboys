@@ -10,6 +10,20 @@ const femDict = {
       }
     ]
   },
+  caiva: {
+    casedName: "Caiva",
+    pfp: "https://media.discordapp.net/attachments/1076508033401757750/1133041176526729247/ezgif-5-ebd4f562b7.jpg",
+    colors: "#FDD835",
+    socials: [
+      {
+        class: "twt",
+        link: "https://twitter.com/Caivaa"
+      },{
+        class: "ins",
+        link: "https://www.instagram.com/omfg_marcos/"
+      }
+    ]
+  },
   cielkun: {
     casedName: "CielKun",
     pfp: "https://media.discordapp.net/attachments/637929509827641345/1060420989890084874/fa240c1f95db8e56b11fa23dc01e2456.png",
