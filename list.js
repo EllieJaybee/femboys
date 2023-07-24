@@ -13,7 +13,7 @@ const femDict = {
   caiva: {
     casedName: "Caiva",
     pfp: "https://media.discordapp.net/attachments/1076508033401757750/1133041176526729247/ezgif-5-ebd4f562b7.jpg",
-    colors: "#FDD835",
+    colors: "#FDD835, #FDD835",
     socials: [
       {
         class: "twt",
