@@ -93,7 +93,7 @@ const femDict = {
     ]
   },
   elliejb: {
-    casedName: "EllieJB",
+    casedName: "Enki",
     pfp: "assets/img/catboy.png",
     colors: "#642CA9, #FF36AB, #FF74D4, #FFB8DE",
     socials: [
@@ -109,6 +109,9 @@ const femDict = {
       },{
         class: "stm",
         link: "https://steamcommunity.com/id/elliejb/"
+      },{
+        class: "fdi",
+        link: "https://catboy.baby/@enki"
       }
     ]
   },
