@@ -292,20 +292,6 @@ const femDict = {
       }
     ]
   },
-  '6err0r9': {
-    casedName: "6Err0r9",
-    pfp: "assets/img/error.png",
-    colors: "#595e82, #cfbdc5, #333457, #080412",
-    socials: [
-      {
-        class: "ytb",
-        link: "https://www.youtube.com/channel/UCdnyiUwz1ghsHVnQsMknfyQ"
-      },{
-        class: "twc",
-        link: "https://www.twitch.tv/lleafy__"
-      }
-    ]
-  },
   '_lexeon': {
     casedName: "_lexeon",
     colors: "#d60270, #9b4f96, #0038a8, #ffd1dc",
