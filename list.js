@@ -305,6 +305,19 @@ const femDict = {
         link: "https://www.twitch.tv/lleafy__"
       }
     ]
+  },
+  '_lexeon': {
+    casedName: "_lexeon",
+    colors: "#d60270, #9b4f96, #0038a8, #ffd1dc",
+    socials: [
+      {
+        class: "ins",
+        link: "https://www.instagram.com/_lexeon/"
+      },{
+        class: "dsc",
+        link: "https://discord.com/users/440844503553933313"
+      }
+    ]
   }
 }
 
