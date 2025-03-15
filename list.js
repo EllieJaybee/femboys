@@ -304,6 +304,19 @@ const femDict = {
         link: "https://discord.com/users/440844503553933313"
       }
     ]
+  },
+  xiaokeqq: {
+    casedName: "XiaoKeQQ",
+    colors: "#E0B0FF, #ffffff",
+    socials: [
+      {
+        class: "twt",
+        link: "https://x.com/XiaoDumOwO"
+      },{
+        class: "stm",
+        link: "https://steamcommunity.com/profiles/76561198853725013"
+      }
+    ]
   }
 }
 
